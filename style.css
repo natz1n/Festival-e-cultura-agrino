@@ -1,4 +1,13 @@
 body {
-    background-color:black;
-    font-family:Arial, Helvetica, sans-serif;
+    background-color:rgb(42, 29, 21);
+    color:rgb(227, 211, 190);
+    font-family:Nunito;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
 }
